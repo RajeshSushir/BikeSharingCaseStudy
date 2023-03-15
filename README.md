@@ -45,13 +45,13 @@ GitHub
 
 ## Conclusions
 Significant variables to predict the demand for shared bikes:
-    * Holiday
-    * Temp
-    * Humidity
-    * Windspeed
-    * Season
-    * Months
-    * Weather
+* Holiday
+* Temp
+* Humidity
+* Windspeed
+* Season
+* Months
+* Weather
 
 
 ## Acknowledgements
